@@ -1,0 +1,13 @@
+review_id,product_id,review_body,product_title
+1,101,This is an amazing product! Highly recommended.,Awesome Gadget
+2,101,Worst product ever. Completely useless and a waste of money.,Awesome Gadget
+3,101,"Great quality, worth the price.",Awesome Gadget
+4,102,Terrible experience. Do not buy.,Super Widget
+5,102,Loved it! Exceeded my expectations.,Super Widget
+6,102,"Okay product, but there are better alternatives.",Super Widget
+7,103,Fantastic! Best purchase I've made this year.,Handy Tool
+8,103,Not worth the money. Poor quality.,Handy Tool
+9,103,I will never buy this again.,Handy Tool
+10,104,Great tool for daily use. Works perfectly.,Useful Device
+11,104,I don’t know what people see in this. Not good.,Useful Device
+12,104,"Excellent product, fast delivery, very satisfied.",Useful Device
